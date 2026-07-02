@@ -50,7 +50,7 @@ Building scalable web applications and AI-powered systems with **Node.js**, **Vu
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,nginx"/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx"/>
 
 </p>
 
