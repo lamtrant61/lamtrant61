@@ -6,9 +6,6 @@
 
 Building scalable web applications and AI-powered systems with **Node.js**, **Vue.js**, and **Python**.
 
-[![GitHub followers](https://img.shields.io/github/followers/lamtrant61?style=for-the-badge)](https://github.com/lamtrant61)
-[![Profile Views](https://komarev.com/ghpvc/?username=lamtrant61&style=for-the-badge)](https://github.com/lamtrant61)
-
 </div>
 
 ---
